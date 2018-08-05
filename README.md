@@ -11,3 +11,5 @@ attacked.
 I am thankful to [pystone](https://github.com/pystone/ProcessMigration) for making their code public.
 
 To view results of project, clone the project and execute command "java -jar Blockchain_voting.jar".
+
+For a deeper understanding of how blockchains are used for bitcoin and other cryptocurrencies, refer this amazing video by 3Blue1Brown. [Ever wonder how Bitcoin (and other cryptocurrencies) actually work?](https://www.youtube.com/watch?v=bBC-nXj3Ng4)
