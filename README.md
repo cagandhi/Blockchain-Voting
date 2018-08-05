@@ -9,3 +9,5 @@ The encrypted block of votes is available at all nodes in the network in case th
 attacked.
 
 I am thankful to [pystone](https://github.com/pystone/ProcessMigration) for making their code public.
+
+To view results of project, clone the project and execute command "java -jar Blockchain_voting.jar".
