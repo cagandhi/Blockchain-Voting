@@ -1,5 +1,5 @@
 # Blockchain-voting
-A proof of concept model for for a voting system based on block-chain technology. This was my project for the "Computer Networks" course.
+A proof of concept model for for a voting system based on block-chain technology. This was my project for the "CSC 330: Computer Networks" course at Ahmedabad University.
 
 Objective: Develop a proof-of-concept (POC) model for a voting system based on blockchain technology.
 
